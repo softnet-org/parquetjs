@@ -18,7 +18,8 @@
     "int53": "^0.2.4",
     "node-int64": "^0.3.3",
     "snappyjs": "^0.6.0",
-    "varint": "^5.0.0"
+    "varint": "^5.0.0",
+    "buffer": "^6.0.3"
   },
   "devDependencies": {
     "chai": "^4.1.2",
